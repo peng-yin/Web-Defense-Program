@@ -100,6 +100,3 @@ function App() {
 
 xss、csrf
 
-<div style='display: none'>
-  * [参考](https://juejin.im/post/5de91d0f51882512400acafd?utm_source=gold_browser_extension#heading-7)
-</div>
